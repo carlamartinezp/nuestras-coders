@@ -1,0 +1,62 @@
+div{ 
+	width: 700px;
+	height: 220px;	
+}
+hr{
+	border:3px solid;
+	width:100px;
+	position:absolute;
+	left:8px;
+
+	
+	
+}
+p {position:absolute;
+	left:99px;
+	top:150px;
+	color:white;
+	font-family:serif;
+	font-size:14px;
+}
+.caja1{
+	
+	background-image:url(../img/profile-1.png);
+	background-repeat: no-repeat;
+	position: absolute;
+	bottom:230px	
+}
+.caja2{
+	background-image:url(../img/profile-2.png);
+	background-repeat: no-repeat;
+	position: absolute;
+	left:230px;
+	bottom:230px; 
+}
+.caja3{
+	background-image:url(../img/profile-3.png);
+	background-repeat: no-repeat;
+	position: absolute;
+	left:450px;
+	bottom:230px; 
+}
+.caja4{
+	background-image:url("../img/profile-6.png");
+	background-repeat: no-repeat;
+	position: absolute;
+	left:450px;
+	bottom:2px; 
+}
+.caja5{
+	background-image:url("../img/profile-5.png");
+	background-repeat: no-repeat;
+	position: absolute;
+	left:230px;
+	bottom:1px;
+}
+.caja6{
+	background-image:url("../img/profile-4.png");
+	background-repeat: no-repeat;
+	position: absolute;
+	left:9px;
+	bottom:1px;
+}
